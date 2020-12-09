@@ -1,5 +1,3 @@
-## Activities
-
 <a href="https://github.com/yaasin-raki2/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaasin-raki2&layout=compact&theme=omni&hide=html,css" alt="yaasin-raki2's most used languages" />
 </a>
