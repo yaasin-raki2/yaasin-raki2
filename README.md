@@ -1,7 +1,3 @@
-## Hi, i'm Yassine 👋🏼
-
-##### I'm a  UI/UX designer && Full Stack Software Enginner, and here you can find my coding artwork 🖌️
-
 ## Activities
 
 <a href="https://github.com/yaasin-raki2/">
