@@ -6,10 +6,6 @@
 <a href="https://github.com/yaasin-raki2/">
   <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=yaasin-raki2&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="yaasin-raki2 Stats" />
 </a>
-
-## Github Ptofile Views
-[![views](https://komarev.com/ghpvc/?username=yaasin-raki2&label=Profile%20views&color=fe75a9&style=for-the-badge&logo)](https://github.com/yaasin-raki2/)
-
 <!--
 **yaasin-raki2/yaasin-raki2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
