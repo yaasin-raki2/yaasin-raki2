@@ -1,20 +1,25 @@
-<a href="https://github.com/yaasin-raki2/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaasin-raki2&layout=compact&theme=omni&hide=html,css" alt="yaasin-raki2's most used languages" />
-</a>
-<a href="https://github.com/yaasin-raki2/">
-  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=yaasin-raki2&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="yaasin-raki2 Stats" />
-</a>
-<!--
-**yaasin-raki2/yaasin-raki2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yassine Erraqui 👋
 
-Here are some ideas to get you started:
+I like the parts of software where abstractions start leaking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly interested in systems programming, backend infrastructure, distributed systems,
+developer tooling, and the machinery underneath things that are supposed to "just work".
+
+I also enjoy frontend work — and occasionally designing my own interfaces, because AI still has questionable taste.
+
+I spend an unreasonable amount of time making computers do exactly what I meant,
+usually from Neovim.
+
+---
+
+### 🏔️ Outside the terminal
+
+* 🎮 Games with difficulty settings that feel vaguely hostile
+* 📚 Reading software engineering & systems books
+* 🏃 Ultra-trail running
+* 🚵 XC mountain biking
+* 🏋️ Bodybuilding
+* 🐈 Cat owner, my most persistent source of keyboard interrupts
+
+A lot of what I build lives in private repositories.
+This profile is more of a window than an inventory.
