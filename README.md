@@ -5,7 +5,7 @@ I like the parts of software where abstractions start leaking.
 Mostly interested in systems programming, backend infrastructure, distributed systems,
 developer tooling, and the machinery underneath things that are supposed to "just work".
 
-I also enjoy frontend work — and occasionally designing my own interfaces, because AI still has questionable taste.
+I also do frontend work, and occasionally design my own interfaces and do my own motion design, cuz AI still has questionable taste.
 
 I spend an unreasonable amount of time making computers do exactly what I meant,
 usually from Neovim.
